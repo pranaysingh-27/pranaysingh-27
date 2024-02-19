@@ -1,13 +1,8 @@
-[![MasterHead](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif)](https://codebasics.io/portfolio/Pranay-Singh)
-
 <h1 align="center">Hi 👋, I'm Pranay Singh</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://www.gifimages.pics/images/quotes/english/general/gif-for-presentation-man-explaining-52650-170012.gif">
+<img align="right" alt="Coding" width="400" src="(https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **pranaysingh707@gmail.com**
+- 📫 Reach me on **pranaysingh707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
