@@ -2,11 +2,7 @@
 <h3 align="center">| Engineer | Data Analyst || Finance | Marketing |</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
-- 🧠 I’m skilled in **Data Analytics**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 Reach me on **pranaysingh707@gmail.com**
+- 🧠 I’m working as **Data Automation Specialist and Analyst**
 
 - 💻 My Portfolio Website: https://codebasics.io/portfolio/Pranay-Singh
 
