@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranay Singh</h1>
-<h3 align="center">| Engineer | Data Analyst || Finance | Marketing |</h3>
+<h3 align="center">| Engineer | AI Automation Specialist | Agentic AI Developer |</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
-- 🧠 I’m working as **Data Automation Specialist and Analyst**
+- 🧠 I’m working as **AI Automation Specialist**
 
 - 💻 My Portfolio Website: https://codebasics.io/portfolio/Pranay-Singh
 
