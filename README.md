@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Pranay Singh</h1>
 <h3 align="center">
-  | Engineer | AI Automation Specialist | Agentic AI Developer |
+  | AI Automation Specialist | Engineer | Agentic AI Developer |
 </h3>
 <img
   align="right"
-  alt="Coding"
+  alt="n8n integrations"
   width="400"
-  src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif"
+  src="https://fiverr-res.cloudinary.com/q_auto,f_auto/gigs/436379137/original/98bb30d684322a5b0bbf04656e5a71c3ccbd178b.png"
 />
 
-- 🧠 I’m working as an **AI Automation Specialist** 
-- 💻 My Portfolio Website:
-https://codebasics.io/portfolio/Pranay-Singh
+<ul>
+  <li>I’m an <strong>AI Automation Specialist</strong></li>
+  
+  <li>
+    <strong>Portfolio Website:</strong><br />
+    <a href="https://codebasics.io/portfolio/Pranay-Singh" target="_blank">
+      https://codebasics.io/portfolio/Pranay-Singh
+    </a>
+  </li>
+  
+<li>
+  <strong>Skills:</strong><br />
+  | N8N | Make.com | APIs | Webhooks | Python | Workflow Automation |<br />
+  | Task Automation | CRM Automation | Data Automation | RPA | BPA
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
