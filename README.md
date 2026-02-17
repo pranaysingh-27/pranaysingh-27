@@ -21,8 +21,9 @@
   
 <li>
   <strong>Skills:</strong><br />
-  | N8N | Make.com | APIs | Webhooks | Python | Workflow Automation |<br />
-  | Task Automation | CRM Automation | Data Automation | RPA | BPA
+  | N8N | Make.com | APIs | Webhooks | Python |<br /> 
+  | Workflow Automation | Tasks, CRM, Data Automation |<br /> 
+  | RPA | BPA |
 </li>
 
 <h3 align="left">Connect with me:</h3>
