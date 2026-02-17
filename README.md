@@ -23,6 +23,7 @@
   <strong>Skills:</strong><br />
   | N8N | Make.com | APIs | Webhooks | Python |<br /> 
   | Workflow Automation | Tasks, CRM, Data Automation |<br /> 
+  | AI Agents | Multi-Agent Systems (MAS) |<br /> 
   | RPA | BPA |
 </li>
 
